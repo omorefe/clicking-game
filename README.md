@@ -12,7 +12,7 @@ Great question! You can find out on the [Installation Wiki](https://github.com/O
 
 ## How do I play it?
 
-Also great question! I haven't wrote instructions yet, but when I do I will tell you
+Also great question! I haven't wrote instructions yet, but when I do I will update this
 
 ## Where do I go if I have a suggestion, question, or find a bug?
 
